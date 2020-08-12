@@ -1,0 +1,4 @@
+baseURL = "https://ddvk.github.io"
+languageCode = "en-us"
+title = "Some static site"
+theme = "ananke"
