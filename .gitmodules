@@ -3,5 +3,5 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = git@github.com:ddvk/ddvk.github.io.git
+	url = https://github.com/ddvk/ddvk.github.io.git
 	branch = master
